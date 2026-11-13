@@ -1,3 +1,3 @@
-# DevOps Final Project
+# DevOps Capstone
 
-[![CI Build Status](https://github.com/IbnuZakyFauzi/devops-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/IbnuZakyFauzi/devops-final-project/actions)
+![CI Build](https://github.com/IbnuZakyFauzi/devops-final-project/actions/workflows/ci-build.yaml/badge.svg)
